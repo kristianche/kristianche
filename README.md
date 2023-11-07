@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### - 🌱 I’m currently learning HTML CSS and JS
 ### - 📫 How to reach me: kchelebiev777@gmail.com
+### - 💬 Ask me about anything
 
 
 <!--
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HTML CSS and JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 📫 How to reach me: kchelebiev777@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
