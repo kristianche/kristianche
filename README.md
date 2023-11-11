@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning JS
+### - 🌱 I’m currently learning JS and C#
 ### - 📫 How to reach me: kchelebiev777@gmail.com
 ### - 💬 Ask me about anything
 
