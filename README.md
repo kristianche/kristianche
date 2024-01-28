@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning JS and C# and SQL
+### - 🌱 I’m currently learning JS, C# and SQL
 ### - 📫 How to reach me: kchelebiev777@gmail.com
 ### - 💬 Ask me about anything
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JS and C# and SQL.
+- 🌱 I’m currently learning JS, C# and SQL.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
