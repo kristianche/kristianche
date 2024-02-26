@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning C# and SQL
+### - 🌱 I’m currently learning C#
 ### - 📫 How to reach me: kchelebiev777@gmail.com
 ### - 💬 Ask me about anything
 
