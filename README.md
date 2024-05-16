@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning C# and I know Python, JS and SQL
+### - 🌱 I’m currently learning C# and I am familiar with Python, JS and SQL
 ### - 📫 How to reach me: kchelebiev777@gmail.com
 ### - 💬 Ask me about anything
 
