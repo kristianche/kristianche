@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### - 🌱 I’m currently learning C# but I know Python, JS and SQL
-### - 📫 How to reach me: kchelebiev777@gmail.com
+### - 📫 How to reach me: 
+###                   Gmail: kchelebiev777@gmail.com
+###                   Instagram: https://www.instagram.com/kchelebiev_/
+###                   LinkedIn: https://www.linkedin.com/in/kristian-chelebiev-04223b285/
 ### - 💬 Ask me about anything
 
 
