@@ -6,7 +6,7 @@
 ###                   Instagram: https://www.instagram.com/kchelebiev_/
 ###                   LinkedIn: https://www.linkedin.com/in/kristian-chelebiev-04223b285/
 ### - 💬 Ask me about anything
-### - ⚡ Fun fact: I am water polo player. I also like F1, football, maths and history.
+### - ⚡ Fun fact: I play water polo. I also like F1, football, maths and history.
 
 
 <!--
