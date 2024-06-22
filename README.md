@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning C# but I know Python, JS and SQL
+### - 🌱 I’m currently learning C# and DevOps but I know Python, JS and SQL.
 ### - 📫 How to reach me: 
 ###                   Gmail: kchelebiev777@gmail.com
 ###                   Instagram: https://www.instagram.com/kchelebiev_/
