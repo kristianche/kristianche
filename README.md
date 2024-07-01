@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C# and DevOps**
 
-- 💬 Ask me about **anything involving Python**
+- 💬 Ask me about **anything involving Python and JS**
 
 - 📫 How to reach me **kchelebiev777@gmail.com**
 
