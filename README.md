@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kchelebiev777@gmail.com**
 
-- ⚡ Fun fact **I love football and formula 1.**
+- ⚡ Fun fact **I love football⚽ and formula 1 🏁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
