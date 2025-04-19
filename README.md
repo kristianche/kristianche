@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ARtline](https://github.com/kristianche/ARtline)
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking (SoftUni)**
 
 - 💬 Ask me about **anything involving Python, JS, C#, SQL and DevOps**
 
