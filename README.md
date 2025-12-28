@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ARtline](https://github.com/kristianche/ARtline)
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking (SoftUni). Doing labs at TryHackMe and HTB. Also learning Functional Programming (Haskell).**
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking. Doing labs at TryHackMe and HTB. Also learning Functional Programming (Haskell).**
 
 - 💬 Ask me about **anything involving Python, JS, C#, SQL and DevOps**
 
