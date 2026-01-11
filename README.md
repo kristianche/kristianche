@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity and Ethical Hacking. Doing labs at TryHackMe and HTB. Also learning Functional Programming (Haskell).**
 
-- 💬 Ask me about **anything involving Python, JS, C#, SQL and DevOps**
+- 💬 Ask me about **anything involving Python, JS, SQL and DevOps**
 
 - 📫 How to reach me **kchelebiev777@gmail.com**
 
