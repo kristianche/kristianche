@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kristianche" alt="kristianche" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking. Doing labs at TryHackMe and HTB. Also learning Functional Programming (Haskell).**
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking. Doing labs at TryHackMe and HTB.**
 
 - 💬 Ask me about **anything involving Python, JS, SQL and DevOps**
 
