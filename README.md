@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kristianche" alt="kristianche" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking. Doing labs at TryHackMe and HTB.**
+- 🌱 I’m currently learning **Computer Science at TU Delft.**
 
-- 💬 Ask me about **anything involving Python, JS, SQL and DevOps**
+- 💬 Ask me about **anything involving Java, Assembly, Python, JS, SQL and DevOps**
 
 - 📫 How to reach me **kchelebiev777@gmail.com**
 
